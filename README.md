@@ -10,7 +10,7 @@ Use el manejador de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar
 python3 -m venv env
 
 env\Scripts\activate.bat (windows)
-env/bin/activate (linux)
+source venv/bin/activate (linux)
 
 (env) pip install flask
 
